@@ -12,6 +12,9 @@
 		6ABFAE63223866430080DF1B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6ABFAE61223866430080DF1B /* Main.storyboard */; };
 		6ABFAE65223866450080DF1B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6ABFAE64223866450080DF1B /* Assets.xcassets */; };
 		6ABFAE68223866450080DF1B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6ABFAE66223866450080DF1B /* LaunchScreen.storyboard */; };
+		6ABFAE702238A2E60080DF1B /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ABFAE6F2238A2E60080DF1B /* Concentration.swift */; };
+		6ABFAE722238A3490080DF1B /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ABFAE712238A3490080DF1B /* Card.swift */; };
+		6AC45BFE2239FB8000199D20 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AC45BFD2239FB8000199D20 /* Theme.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		6ABFAE64223866450080DF1B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6ABFAE67223866450080DF1B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6ABFAE69223866450080DF1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6ABFAE6F2238A2E60080DF1B /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = "<group>"; };
+		6ABFAE712238A3490080DF1B /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		6AC45BFD2239FB8000199D20 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,9 @@
 				6ABFAE64223866450080DF1B /* Assets.xcassets */,
 				6ABFAE66223866450080DF1B /* LaunchScreen.storyboard */,
 				6ABFAE69223866450080DF1B /* Info.plist */,
+				6ABFAE6F2238A2E60080DF1B /* Concentration.swift */,
+				6ABFAE712238A3490080DF1B /* Card.swift */,
+				6AC45BFD2239FB8000199D20 /* Theme.swift */,
 			);
 			path = "2019-03-12_Assignment1-Concentration";
 			sourceTree = "<group>";
@@ -137,6 +146,9 @@
 			files = (
 				6ABFAE60223866430080DF1B /* ViewController.swift in Sources */,
 				6ABFAE5E223866430080DF1B /* AppDelegate.swift in Sources */,
+				6AC45BFE2239FB8000199D20 /* Theme.swift in Sources */,
+				6ABFAE702238A2E60080DF1B /* Concentration.swift in Sources */,
+				6ABFAE722238A3490080DF1B /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
